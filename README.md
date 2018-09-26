@@ -4,9 +4,9 @@ Código em HTML e CSS3 que faz uma apresentação em 3D para telas de aplicativo
 
 # Imagem
 
-![Estado normal](https://imgur.com/7MEDRYz)
+![Estado normal](https://i.imgur.com/7MEDRYz.png)
 
-![Estado em Hover](https://imgur.com/LJvoHEK)
+![Estado em Hover](https://i.imgur.com/LJvoHEK.png)
 
 ## Modo de uso
 
